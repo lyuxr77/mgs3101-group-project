@@ -1,0 +1,10 @@
+SKU,Product_Name,Offering_Type,Annual_Price_Per_Unit_USD
+IA-COMPUTE,Cloud Compute,IaaS,12000
+IA-STORAGE,Cloud Storage,IaaS,6000
+IA-NETWORK,Secure Networking,IaaS,4800
+SA-ANALYTICS,Business Analytics,SaaS,7200
+SA-CRM,Customer Management,SaaS,6000
+SA-COLLAB,Team Collaboration,SaaS,3600
+PS-IMPLEMENT,Implementation Support,Professional Services,10000
+PS-ADVISORY,Technical Advisory,Professional Services,12000
+PS-TRAINING,Customer Training,Professional Services,5000
